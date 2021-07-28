@@ -7,7 +7,7 @@ We retrieve this icon using the HTML selector `<head> link[rel="shortcut icon"]`
 The tag's `href` attribute will be used for assigning the site icon.
 
 ```html
-<head>
-  <link rel="shortcut icon" href="https://your-site.com/your-icon.png" />
+<head> 
+  <link  rel ="shortcut icon" href ="https://i.ibb.co/Bz6bWCC/20210728232634.jpg" />
 </head>
 ```
